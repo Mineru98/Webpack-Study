@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "author": "iamiks <rmstjr1030@naver.com>",
-    "license": "MIT",
+    "private": true,
     "scripts": {
         "build:dev": "webpack --config config/webpack.config.dev.js",
         "build:prod": "webpack --config config/webpack.config.prod.js",
